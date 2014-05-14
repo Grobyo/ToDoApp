@@ -21,6 +21,7 @@ public class MainActivity extends ActionBarActivity {
     ArrayAdapter<String> itemsAdapter;
     ListView lvItems;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         //..Super, SetContentView, define lvItems
